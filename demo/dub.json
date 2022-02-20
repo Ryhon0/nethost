@@ -1,0 +1,17 @@
+{
+	"authors": [
+		"ryhon"
+	],
+	"copyright": "Copyright © 2022, ryhon",
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "demo",
+	"preBuildCommands": ["cd DotNetLib; dotnet build"],
+	"dependencies": 
+	{
+		"nethost": 
+		{
+			"path": ".."
+		}
+	}
+}

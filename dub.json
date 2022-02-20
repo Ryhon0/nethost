@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"ryhon"
+	],
+	"copyright": "Copyright © 2022, ryhon",
+	"description": "D bindings to .NET hosting libraries (nethost.h, hostfxr.h, coreclr_delegates.h)",
+	"license": "MIT",
+	"name": "nethost",
+	"libs": 
+	[
+		"hostfxr",
+		"nethost"
+	]
+}

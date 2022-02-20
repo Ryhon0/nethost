@@ -1,0 +1,6 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"dotnetcore": {"version":"07ebcd174e48b6f3b07af113eb76405591ea2cbb","repository":"git+https://github.com/symmetryinvestments/dotnetcore-d"}
+	}
+}
